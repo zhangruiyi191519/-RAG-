@@ -37,6 +37,7 @@
 
 ## 🏗️ 技术架构
 <img width="432" height="572" alt="image" src="https://github.com/user-attachments/assets/499c3465-2ecb-4a7a-b560-2350399eed90" />
+
 ## 📦 主要模块说明
 
 | 模块文件 | 功能描述 |
