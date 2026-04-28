@@ -36,6 +36,7 @@
 - **智能清洗**：去除空行、首尾空格等噪声
 
 ## 🏗️ 技术架构
+<img width="432" height="572" alt="image" src="https://github.com/user-attachments/assets/499c3465-2ecb-4a7a-b560-2350399eed90" />
 ┌─────────────────────────────────────────────┐
 │           Streamlit Web Interface            │
 │   (app_qa.py / app_file_upload.py)          │
