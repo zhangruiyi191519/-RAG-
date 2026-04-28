@@ -1,4 +1,4 @@
-# 📋 客服问答系统 (Customer Service Q&A System)
+# 📋 企业档案问答系统 (Enterprise Archive Q&A System)
 
 ## 🌟 项目简介
 
