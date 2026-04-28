@@ -1,9 +1,9 @@
 # knowledge_base
-md5_path = "C:/Users/86152/Desktop/客服问答系统/md5.text"
+md5_path = "自定义路径"
 
 # Chroma
 collection_name = "konwledge_base"
-persist_directory = "C:/Users/86152/Desktop/客服问答系统/chroma_db"
+persist_directory = "自定义路径"
 
 # RecursiveCharacterTextSplitter
 first_chunk_size = 1000
@@ -20,10 +20,10 @@ similarity_threshold = 5
 # model
 chat_model = "qwen3-max"
 embedding_model = "text-embedding-v4"
-api_key="sk-f9579e89f34e46d287c9bc6aa9ea5b6f"
+api_key="自己的api-key"
 
 # ChatHistory
-chat_history_path = "C:/Users/86152/Desktop/客服问答系统/chat_history"
+chat_history_path = "自定义路径"
 
 # session_config
 session_config = {
