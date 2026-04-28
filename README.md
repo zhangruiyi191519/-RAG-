@@ -89,4 +89,4 @@
 
 ### 安装依赖
 ```bash
-pip install streamlit langchain langchain-chroma langchain-community pypdf python-docx pandas openpyxl schedule
+pip install streamlit langchain pypdf python-docx pandas openpyxl schedule
